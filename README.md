@@ -1,4 +1,4 @@
-#How to install anything
+# How To Install Anything
 
-    1. Install MongoDB for Mac
+Install MongoDB for Mac
 
